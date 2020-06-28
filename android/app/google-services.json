@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626144648946",
+    "firebase_url": "https://squad-d9f5a.firebaseio.com",
+    "project_id": "squad-d9f5a",
+    "storage_bucket": "squad-d9f5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626144648946:android:189385ab3d0d9788497a6b",
+        "android_client_info": {
+          "package_name": "com.example.squadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626144648946-r9min45ibdirdjmkna55skiminirtln5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfyrWX_jbWj6J9yfUT-fKpxodSJSLEnh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626144648946-r9min45ibdirdjmkna55skiminirtln5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
