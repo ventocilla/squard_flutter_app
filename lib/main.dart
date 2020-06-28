@@ -23,6 +23,7 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Color(0xff392850),
       appBar: AppBar(title: Text('Hi Flutter'),),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
